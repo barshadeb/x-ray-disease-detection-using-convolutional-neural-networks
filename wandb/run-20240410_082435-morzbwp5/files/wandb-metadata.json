@@ -1,0 +1,53 @@
+{
+    "os": "Linux-5.15.146.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.10.12",
+    "heartbeatAt": "2024-04-10T07:24:46.281444",
+    "startedAt": "2024-04-10T07:24:35.722123",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "host": "Burimaaa",
+    "username": "barshadeb",
+    "executable": "/home/barshadeb/.cache/pypoetry/virtualenvs/data_science_for_business_package-D-wAX5fy-py3.10/bin/python",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 2995.201,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2995.201,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.201,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.201,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2995.201,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1006.853931427002,
+            "used": 12.613231658935547
+        }
+    },
+    "memory": {
+        "total": 3.7184104919433594
+    }
+}

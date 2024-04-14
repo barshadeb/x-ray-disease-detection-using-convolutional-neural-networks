@@ -1,0 +1,447 @@
+Found 428 images belonging to 4 classes.
+Found 104 images belonging to 4 classes.
+Epoch 1/10
+/home/barshadeb/.cache/pypoetry/virtualenvs/data_science_for_business_package-D-wAX5fy-py3.10/lib/python3.10/site-packages/keras/src/trainers/data_adapters/py_dataset_adapter.py:120: UserWarning: Your `PyDataset` class should call `super().__init__(**kwargs)` in its constructor. `**kwargs` can include `workers`, `use_multiprocessing`, `max_queue_size`. Do not pass these arguments to `fit()`, as they will be ignored.
+  self._warn_if_super_not_called()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1m107/107[22m [32m━━━━━━━━━━━━━━━━━━━━[39m [1m0s[22m 798ms/step - accuracy: 0.5728 - loss: 1.0272
+[34m[1mwandb[39m[22m: [32m[41mERROR[39m[49m Unable to log learning rate.
+Epoch 1: val_loss improved from inf to 0.40005, saving model to weights.keras
+[1m107/107[22m [32m━━━━━━━━━━━━━━━━━━━━[39m [1m121s[22m 992ms/step - accuracy: 0.5736 - loss: 1.0256 - val_accuracy: 0.8558 - val_loss: 0.4001
+Epoch 2/10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1m107/107[22m [32m━━━━━━━━━━━━━━━━━━━━[39m [1m0s[22m 753ms/step - accuracy: 0.9025 - loss: 0.3266
+Epoch 2: val_loss improved from 0.40005 to 0.37757, saving model to weights.keras
+[1m107/107[22m [32m━━━━━━━━━━━━━━━━━━━━[39m [1m99s[22m 919ms/step - accuracy: 0.9024 - loss: 0.3268 - val_accuracy: 0.8654 - val_loss: 0.3776
+Epoch 3/10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1m107/107[22m [32m━━━━━━━━━━━━━━━━━━━━[39m [1m0s[22m 720ms/step - accuracy: 0.9413 - loss: 0.2002
+Epoch 3: val_loss did not improve from 0.37757
+[1m107/107[22m [32m━━━━━━━━━━━━━━━━━━━━[39m [1m93s[22m 861ms/step - accuracy: 0.9413 - loss: 0.2002 - val_accuracy: 0.8846 - val_loss: 0.3792
+Epoch 4/10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1m107/107[22m [32m━━━━━━━━━━━━━━━━━━━━[39m [1m0s[22m 730ms/step - accuracy: 0.9838 - loss: 0.0668
+Epoch 4: val_loss did not improve from 0.37757
+[1m107/107[22m [32m━━━━━━━━━━━━━━━━━━━━[39m [1m94s[22m 878ms/step - accuracy: 0.9838 - loss: 0.0667 - val_accuracy: 0.8558 - val_loss: 0.4611
+Epoch 5/10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1m107/107[22m [32m━━━━━━━━━━━━━━━━━━━━[39m [1m0s[22m 735ms/step - accuracy: 0.9851 - loss: 0.0523
+Epoch 5: val_loss did not improve from 0.37757
+[1m107/107[22m [32m━━━━━━━━━━━━━━━━━━━━[39m [1m142s[22m 879ms/step - accuracy: 0.9851 - loss: 0.0521 - val_accuracy: 0.8654 - val_loss: 0.7257
+Epoch 6/10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1m107/107[22m [32m━━━━━━━━━━━━━━━━━━━━[39m [1m0s[22m 722ms/step - accuracy: 0.9921 - loss: 0.0282
+Epoch 6: val_loss did not improve from 0.37757
+[1m107/107[22m [32m━━━━━━━━━━━━━━━━━━━━[39m [1m96s[22m 890ms/step - accuracy: 0.9921 - loss: 0.0283 - val_accuracy: 0.8750 - val_loss: 0.6039
+Epoch 7/10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1m107/107[22m [32m━━━━━━━━━━━━━━━━━━━━[39m [1m0s[22m 884ms/step - accuracy: 0.9920 - loss: 0.0157
+Epoch 7: val_loss did not improve from 0.37757
+[1m107/107[22m [32m━━━━━━━━━━━━━━━━━━━━[39m [1m117s[22m 1s/step - accuracy: 0.9921 - loss: 0.0156 - val_accuracy: 0.8750 - val_loss: 0.5380
+Epoch 8/10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1m107/107[22m [32m━━━━━━━━━━━━━━━━━━━━[39m [1m0s[22m 832ms/step - accuracy: 0.9975 - loss: 0.0068
+Epoch 8: val_loss did not improve from 0.37757
+[1m107/107[22m [32m━━━━━━━━━━━━━━━━━━━━[39m [1m111s[22m 1s/step - accuracy: 0.9975 - loss: 0.0068 - val_accuracy: 0.8654 - val_loss: 0.4965
+Epoch 9/10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1m107/107[22m [32m━━━━━━━━━━━━━━━━━━━━[39m [1m0s[22m 741ms/step - accuracy: 0.9996 - loss: 0.0018
+Epoch 9: val_loss did not improve from 0.37757
+[1m107/107[22m [32m━━━━━━━━━━━━━━━━━━━━[39m [1m95s[22m 884ms/step - accuracy: 0.9996 - loss: 0.0018 - val_accuracy: 0.8558 - val_loss: 0.6657
+Epoch 10/10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1m107/107[22m [32m━━━━━━━━━━━━━━━━━━━━[39m [1m0s[22m 731ms/step - accuracy: 1.0000 - loss: 0.0033
+Epoch 10: val_loss did not improve from 0.37757
+[1m107/107[22m [32m━━━━━━━━━━━━━━━━━━━━[39m [1m94s[22m 873ms/step - accuracy: 1.0000 - loss: 0.0033 - val_accuracy: 0.8654 - val_loss: 0.5905
