@@ -12,4 +12,3 @@ I have used data from https://github.com/ieee8023/covid-chestxray-dataset and ht
 2 - Viral Pneumonia X-ray
 
 3 - Bacterial Pneumonia X-ray
-# barshadeb-x-ray-disease-detection-using-convolutional-neural-networks
